@@ -1,4 +1,4 @@
-# Insertion vs Merge Sort Analysis (Java)
+# Video Game Sales Sorting (Insertion vs Merge Sort) — Java
 
 ## Overview
 
